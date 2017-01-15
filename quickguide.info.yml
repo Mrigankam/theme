@@ -1,0 +1,11 @@
+name: Quickguide
+description: It is a super fast responsive theme and for blog
+version: 1.0.0
+type: theme
+core: 8.x
+libraries:
+  - quickguide/bootstrap
+regions:
+  logo: logo or site branding
+  menu: menu
+  content: Content of a page
